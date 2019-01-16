@@ -1,0 +1,98 @@
+.hero {
+    height: 80vh;
+}
+
+.hero img {
+    height: 80vh;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.bg-image {
+    background-image: url("img/mountains.jpg");
+    background-attachment: fixed;
+    background-size: auto;
+    background-position: top;
+}
+
+.bg-teal {
+    background-color: rgba(79, 166, 188, 0.753);
+}
+
+.txt-w, .txt-w a {
+    color: white;
+    font-weight: bold;
+}
+
+.txt-w h1{
+    font-size: 60px;
+}
+
+
+.bg-grey {
+    background-color: #303637;
+}
+
+.bg-grey button {
+    background-color: rgba(79, 166, 188);
+    color: white;
+}
+.sm-h {
+    padding: 30px 0;
+}
+
+.bg-white {
+    background-color: white;
+    border: 3px solid rgba(79, 166, 188);
+    color: rgba(79, 166, 188);
+}
+
+.bg-blue {
+    background-color: rgba(79, 166, 188);
+    border: 3px solid rgba(79, 166, 188);
+    color: rgba(255, 255, 255);
+}
+
+.bg-l-grey {
+    background-color: rgb(230, 230, 230);
+}
+
+.bg-l-grey h2, .team-wrapper h2 {
+    color: rgba(79, 166, 188);
+    font-weight: bolder;
+}
+
+.bg-l-grey hr {
+    border-color: rgb(150, 150, 150);
+}
+
+.panel .panel-heading{
+    color: rgba(79, 166, 188);
+    font-weight: bold;
+}
+
+.team {
+    padding-top: 60px;
+}
+
+.team ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.team img {
+    height: 120px;
+    margin: 0 auto;
+    margin-top: -60px;
+}
+
+.border4e {
+    padding: 0 5px;
+    border: 1px solid rgba(128, 128, 128, 0.425);
+}
